@@ -1,11 +1,3 @@
-//
-//  upDate.hpp
-//  CECS282
-//
-//  Created by Jon Ham on 10/30/17.
-//  Copyright © 2017 Jon Ham. All rights reserved.
-//
-
 #ifndef upDate_hpp
 #define upDate_hpp
 
