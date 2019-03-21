@@ -1,11 +1,3 @@
-//
-//  Jon Ham
-//  Professor Gold
-//  CECS 282 - M/W
-//  Struct Student Project
-//  October 16, 2017
-//
-
 #include "myDate.hpp"
 #include <iostream>
 #include <cstring>
