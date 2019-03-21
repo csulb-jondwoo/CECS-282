@@ -1,11 +1,3 @@
-//  Jon Ham
-//  Professor Gold
-//  CECS282 - M/W
-//  upDate Project
-//  November 6, 2017
-//
-//
-
 #include "upDate.hpp"
 #include <string>
 #include <iostream>
