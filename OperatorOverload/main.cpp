@@ -1,9 +1,3 @@
-// testupDate.cpp
-// Author: Steven H Gold
-// Program #4 due date: 11/6/2017
-//
-//
-
 #include "upDate.hpp"
 #include <iostream>
 using namespace std;
