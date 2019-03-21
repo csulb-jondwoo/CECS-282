@@ -1,8 +1,3 @@
-//  Jon Ham
-//  CECS 282-07
-//  Prog 0 - Happy Birthday
-//  Aug 30, 2017
-
 #include <iostream>
 #include <string>
 using namespace std;
